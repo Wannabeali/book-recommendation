@@ -5,7 +5,6 @@ include("header.php");
   <!-- home section starts  -->
 
   <!-- <section class="home" id="home">
-
         <div class="row">
 
             <div class="content">
