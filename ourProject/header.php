@@ -81,7 +81,7 @@ if (isset($_POST["submit"])) {
             <nav class="navbar">
                 <a href="main.php">Home</a>
                 <a href="explore.php">Explore</a>
-                <a href="#arrivals">My Books</a>
+                <a href="booklist.php">My Books</a>
                 <a href="#reviews">About</a>
             </nav>
         </div>
